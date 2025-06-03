@@ -6,18 +6,6 @@
   Let's Connect and have a Chat!💬
 </h1>
 
-<p align="center">
-<a href="https://ianhoang.dev/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
-</a>
-<a href="https://www.linkedin.com/in/ianhoangdev/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a>
-<a href="https://www.instagram.com/hqdatt/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
-</p>
-
 ---
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
@@ -45,8 +33,13 @@ currently_doing:
 things_iam_proud_of: i shipped an app called resumezip.io that helps people generate
 latex resumes with ease, hundreds of people have signed up and tried.
 ```
-  
+<h2> 👨 Connect With Me </h2>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<p align="left">
+<a href="https://linkedin.com/in/ianhoangdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ianhoangdev" height="30" width="40" /></a>
+<a href="https://instagram.com/hqdatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hqdatt" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/hqdatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hqdatt" height="30" width="40" /></a>
 </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ianhoangdev&show_icons=true&locale=en" alt="ianhoangdev" /></p>
+
