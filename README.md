@@ -40,8 +40,3 @@ latex resumes with ease, hundreds of people have signed up and tried.
 <a href="https://instagram.com/hqdatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hqdatt" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hqdatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hqdatt" height="30" width="40" /></a>
 </p>
-
-![Snake animation](https://github.com/ianhoangdev/ianhoangdev/blob/output/github-contribution-grid-snake.svg)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ianhoangdev&show_icons=true&locale=en" alt="ianhoangdev" /></p>
-
