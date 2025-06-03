@@ -42,7 +42,8 @@ currently_doing:
     "developing a React Native App",
     "learning about scalability and system design",
   ]
-things_iam_proud_of: i shipped an app called resumezip.io that helps people generate latex resumes with ease, hundreds of people have signed up and tried.
+things_iam_proud_of: i shipped an app called resumezip.io that helps people generate
+latex resumes with ease, hundreds of people have signed up and tried.
 ```
   
 
