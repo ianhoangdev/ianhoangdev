@@ -37,7 +37,7 @@ const ianHoang = {
     currentFocus: "Full-Stack Development",
     workingOn: "Building projects that create impact",
     learningNext: ["Kubernetes", "Cloud Architecture"],
-    funFact: "I can binge read 200+ manga chapters in one night 📚",
+    funFact: "I can binge read 200+ manga chapters in one night",
     motto: "Code with purpose, learn with passion"
 };
 ```
