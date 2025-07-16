@@ -108,7 +108,7 @@ const ianHoang = {
   <a href="https://github.com/ianhoangdev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-View_Projects-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub"/>
   </a>
-  <a href="https://ianhoangdev.dev" target="_blank">
+  <a href="https://ianhoang.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Website-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF6B6B" alt="Portfolio"/>
   </a>
 </div>
