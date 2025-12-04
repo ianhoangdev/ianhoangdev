@@ -34,7 +34,6 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ianhoangdev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&border_radius=20" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com/?user=ianhoangdev&theme=radical&include_all_commits=true&hide_border=true&border_radius=20" alt="GitHub Streak"/>
 </div>
 
 
