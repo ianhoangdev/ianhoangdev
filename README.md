@@ -12,11 +12,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ian-hoang&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&border_radius=20" alt="GitHub Stats"/>
 </div>
 
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ian-hoang&theme=react-dark&hide_border=true&area=true&line=FF6B6B&point=FFFFFF&bg_color=0D1117&radius=20" alt="Contribution Graph"/>
-</div>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
 </div>
