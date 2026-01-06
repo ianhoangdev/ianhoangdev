@@ -9,12 +9,12 @@
 </h1>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ianhoangdev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&border_radius=20" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ian-hoang&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&border_radius=20" alt="GitHub Stats"/>
 </div>
 
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ianhoangdev&theme=react-dark&hide_border=true&area=true&line=FF6B6B&point=FFFFFF&bg_color=0D1117&radius=20" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ian-hoang&theme=react-dark&hide_border=true&area=true&line=FF6B6B&point=FFFFFF&bg_color=0D1117&radius=20" alt="Contribution Graph"/>
 </div>
 
 <div align="center">
